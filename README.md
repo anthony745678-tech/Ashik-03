@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/License-Custom-red?style=for-the-badge&logo=opensourceinitiative&labelColor=1F2428" alt="License"/>
     <img src="https://img.shields.io/badge/Language-Node.js-informational?style=for-the-badge&logo=nodedotjs&labelColor=1F2428" alt="Language"/>
   </p>
-  <img src="https://imgur.com/a/7OlImGn" width="600" style="border-radius:50%;margin-top:10px;margin-bottom:10px;" alt="𝐀𝐋𝐕𝐈 𝐈𝐒𝐋𝐀𝐌"/>
+  <img src="https://imgur.com/a/7OlImGn" width="600" style="border-radius:50%;margin-top:10px;margin-bottom:10px;" alt="ALVI-BOSS"/>
 
   <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C4FF&center=true&vCenter=true&width=580&lines=🚀+Goat+Bot+Alvi+Reloaded;⚡+Built+by+Alvi+Boss;💫+Fast%2C+Smart+%26+Reliable;💥+Messenger+Bot+Evolution" alt="sub"/>
