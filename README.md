@@ -10,7 +10,7 @@
 
   <p align="center">
     <a href="https://github.com/alvi-boss/GOAT-BOT-ALVI">
-      <img title="Stars" src="https://img.shields.io/github/stars/alvi-boss/GOAT-BO-ALVIT?color=cyan&style=for-the-badge&logo=github">
+      <img title="Stars" src="https://img.shields.io/github/stars/alvi-boss/GOAT-BOT-ALVI?color=cyan&style=for-the-badge&logo=github">
     </a>
     <a href="https://github.com/alvi-boss/GOAT-BOT-ALVI/forks">
       <img title="Forks" src="https://img.shields.io/github/forks/alvi-boss/GOAT-BOT-ALVI?color=cyan&style=for-the-badge&logo=github">
