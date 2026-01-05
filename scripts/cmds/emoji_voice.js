@@ -108,7 +108,7 @@ module.exports = {
 "🌠": "https://files.catbox.moe/rqm2wq.mp3",
 "😎": "https://files.catbox.moe/sn33xe.mp3",
 "🤦‍♀️": "https://files.catbox.moe/vwtxj1.mp3",
-"🥰": "https://i.imgur.com/idTiemu.mp4",
+"💋": "https://i.imgur.com/idTiemu.mp4",
 "💝": "https://files.catbox.moe/gcjnq5.mp3"
     };
 
