@@ -32,7 +32,7 @@ module.exports = {
  "🤫": "https://files.catbox.moe/0uii99.mp3",  
  "🍼": "https://files.catbox.moe/p6ht91.mp3",  
  "🤔": "https://files.catbox.moe/hy6m6w.mp3",  
- "🥰": "https://files.catbox.moe/dv9why.mp3",  
+ "😊": "https://files.catbox.moe/dv9why.mp3",  
  "🤦": "https://files.catbox.moe/ivlvoq.mp3",  
  "😘": "https://files.catbox.moe/sbws0w.mp3",  
  "😑": "https://files.catbox.moe/p78xfw.mp3",  
@@ -108,6 +108,7 @@ module.exports = {
 "🌠": "https://files.catbox.moe/rqm2wq.mp3",
 "😎": "https://files.catbox.moe/sn33xe.mp3",
 "🤦‍♀️": "https://files.catbox.moe/vwtxj1.mp3",
+"🥰": "https://i.imgur.com/idTiemu.mp4",
 "💝": "https://files.catbox.moe/gcjnq5.mp3"
     };
 
